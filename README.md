@@ -6,3 +6,4 @@ Re-creation of clowns/bears from Chef Fundamentals
 - Some More Changes
 - Please Work!
 - More Changes
+- Testing syntax using knife!
